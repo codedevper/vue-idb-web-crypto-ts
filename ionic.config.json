@@ -1,0 +1,7 @@
+{
+  "name": "vue-idb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
